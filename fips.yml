@@ -4,6 +4,4 @@
 ---
 exports :
     header-dirs : [ glm ]
-    defines :
-        GLM_FORCE_RADIANS : 1
 
